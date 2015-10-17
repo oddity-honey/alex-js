@@ -1,0 +1,10 @@
+{
+  "name": "alex-js",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  }
+}
